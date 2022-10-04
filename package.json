@@ -1,0 +1,15 @@
+{
+  "name": "entregable-4-gestorlibros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "gestor": "node ./compilados-js/GestorLibro.js",
+    "libro": "node ./compilados-js/Libro.js",
+    "main": "node ./compilados-js/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
